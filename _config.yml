@@ -1,7 +1,6 @@
 ---
 title: "Stryphe's struggle bus"
 date: 2020-04-19
----
 author: stryphe
 email: strifethejunglistking@gmail.com  
 description: > # this means to ignore newlines until "baseurl:"
@@ -11,3 +10,4 @@ twitter_username: your-twitter-handle # who tweets other than Donald trump?
 github_username:  your-github-handle # stryphe
 show_excerpts: true # False
 theme: minima
+---
